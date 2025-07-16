@@ -45,9 +45,9 @@ Modifier le fichier `.env` :
 DB_CONNECTION=pgsql
 DB_HOST=127.0.0.1
 DB_PORT=5432
-DB_DATABASE=exo_tasks_api
-DB_USERNAME=postgres
-DB_PASSWORD=abobo
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
 ```
 
 5. **Générer la clé de l'application**
